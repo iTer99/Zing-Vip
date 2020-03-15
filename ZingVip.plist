@@ -1,7 +1,8 @@
 {
 	Filter = {
 		Bundles = (
-			"vng.com.vn.zingmp3",
+			"com.apple.UIKit",
+      			"com.apple.springboard",
 		);
 	};
 }
