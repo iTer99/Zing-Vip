@@ -1,0 +1,7 @@
+{
+	Filter = {
+		Bundles = (
+			"vng.com.vn.zingmp3",
+		);
+	};
+}
