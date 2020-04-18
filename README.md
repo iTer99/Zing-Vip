@@ -1,4 +1,4 @@
-![ZingVip](https://i.imgur.com/p1bbHCN_d.jpg?maxwidth=640&shape=thumb&fidelity=medium)
+![ZingVip](https://i.imgur.com/OUsiG2w.jpg)
 
 ## Tính năng hiện có
 - Chặn quảng cáo hoàn toàn
