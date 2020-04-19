@@ -1,4 +1,4 @@
-![ZingVip](https://i.imgur.com/OUsiG2w.jpg)
+![ZingVip](https://i.imgur.com/dVFqHCR.jpg)
 
 ## Tính năng hiện có
 - Chặn quảng cáo hoàn toàn
@@ -7,5 +7,4 @@
 - Đồng bộ / Tải nhạc Lossless
 
 ## Các vấn đề đã biết
-- Không thể nghe nhạc gắn nhãn VIP
-- Không thể mở VIP thật (joke)
+
