@@ -1,10 +1,11 @@
-![ZingVip](https://i.imgur.com/dVFqHCR.jpg)
+![ZingVip](https://i.imgur.com/OUsiG2w.jpg)
 
-## Tính năng hiện có
+## Feature:
 - Chặn quảng cáo hoàn toàn
 - Chất lượng nghe nhạc 320kbps
 - Chất lượng MV 1080p
 - Đồng bộ / Tải nhạc Lossless
 
-## Các vấn đề đã biết
-
+## Problem:
+- Không thể nghe nhạc gắn nhạc VIP
+- Không thể mở VIP thật (joke)
