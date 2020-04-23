@@ -1,4 +1,4 @@
-![ZingVip](https://i.imgur.com/OUsiG2w.jpg)
+![ZingMP3](https://i.imgur.com/OUsiG2w.jpg)
 
 ## Feature:
 - Chặn quảng cáo hoàn toàn
@@ -9,3 +9,15 @@
 ## Problem:
 - Không thể nghe nhạc gắn nhạc VIP
 - Không thể tải nhạc lossless
+
+---
+
+![ZingTV](https://i.imgur.com/cXTwcRx.jpeg)
+
+## Feature:
+- Không làm phiền bởi quảng cáo
+- Xem phim chất lượng cao
+- Phim độc quyền điện ảnh châu á
+
+## Problem:
+- Bạn nói tôi biết
