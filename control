@@ -1,9 +1,9 @@
 Package: com.iter99.zingmp3vip
-Name: Zing MP3 VIP
+Name: Zing MP3 - Zing TV VIP
 Depends: mobilesubstrate
 Version: 1.1
 Architecture: iphoneos-arm
-Description: Enable Zing MP3 VIP.
+Description: Enable Zing MP3 and Zing TV VIP.
 Maintainer: iTer99
 Author: iTer99
 Section: Tweaks
