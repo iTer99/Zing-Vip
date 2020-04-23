@@ -7,7 +7,7 @@
 - Đồng bộ / Tải nhạc Lossless
 
 ## Problem:
-- Không thể nghe nhạc gắn nhạc VIP
+- Không thể nghe nhạc có nhãn VIP
 - Không thể tải nhạc lossless
 
 ---
