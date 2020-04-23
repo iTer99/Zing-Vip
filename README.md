@@ -8,4 +8,4 @@
 
 ## Problem:
 - Không thể nghe nhạc gắn nhạc VIP
-- Không thể mở VIP thật (joke)
+- Không thể tải nhạc lossless
