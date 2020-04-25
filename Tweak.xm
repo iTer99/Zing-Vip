@@ -1,5 +1,5 @@
 %hook UserInfoEntity
 - (bool) isVip {
-   return TRUE;
+   return YES;
 }
 %end
