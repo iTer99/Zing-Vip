@@ -4,6 +4,6 @@ Depends: mobilesubstrate
 Version: 1.2
 Architecture: iphoneos-arm
 Description: Enable Zing MP3 and Zing TV VIP.
-Maintainer: iTer99
-Author: iTer99
+Maintainer: iTer99 <hoan.nguyen.16999@gmail.com>
+Author: iTer99 <hoan.nguyen.16999@gmail.com>
 Section: Tweaks
